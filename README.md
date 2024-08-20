@@ -1,6 +1,5 @@
 # TensorFlow and Keras: Sentiment Analysis Using RNN
 
-## Overview
 
 This project uses advanced machine learning techniques to analyze the sentiment behind customer reviews. Specifically, it focuses on Amazon product reviews and determines whether a review is positive, negative, or somewhere in between. The goal is to predict the star rating of a review just by analyzing the text.
 
